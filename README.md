@@ -83,3 +83,17 @@ Solo se envia mi nombre, mas no mi apellido.
 ### Verifique como mandar los parámetros de forma compuesta
 ![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/10.png)
 ![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/11.png)
+
+## HACER EL ESQUELETO DE LA APLICACIÓN
+
+### Cree una interfaz llamada *Shape.java*
+
+### Cree una enumeración llamada *RegularShapeType.java*
+
+###  cree las diferentes clases *(Triangle, Quadrilateral, Pentagon, Hexagon)*, que implementen la interfaz creada y retornen el número correspondiente de vértices que tiene la figura.
+
+### Cree el archivo *ShapeMain.java*
+
+### Cree el archivo *ShapeFactory.java*
+Se usa la fabrica abstracta (Abstract Factory)
+
