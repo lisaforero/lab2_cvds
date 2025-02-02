@@ -87,13 +87,31 @@ Solo se envia mi nombre, mas no mi apellido.
 ## HACER EL ESQUELETO DE LA APLICACIÓN
 
 ### Cree una interfaz llamada *Shape.java*
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/16.png)
 
 ### Cree una enumeración llamada *RegularShapeType.java*
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/17.png)
 
-###  cree las diferentes clases *(Triangle, Quadrilateral, Pentagon, Hexagon)*, que implementen la interfaz creada y retornen el número correspondiente de vértices que tiene la figura.
+###  Cree las diferentes clases *(Triangle, Quadrilateral, Pentagon, Hexagon)*, que implementen la interfaz creada y retornen el número correspondiente de vértices que tiene la figura.
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/18.png)
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/19.png)
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/20.png)
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/21.png)
 
 ### Cree el archivo *ShapeMain.java*
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/22.png)
 
 ### Cree el archivo *ShapeFactory.java*
 Se usa la fabrica abstracta (Abstract Factory)
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/23.png)
+
+### Ejecuciones de prueba del programa 
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/12.png)
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/13.png)
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/14.png)
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/15.png)
+
+- De las anteriores pruebas la unica que pasa es la ultima, esto ocurre ya que al revisar el codigo se
+puede ver que es el unico caso donde el switch case es el apropiado para devolver una respuesta.
+
 
