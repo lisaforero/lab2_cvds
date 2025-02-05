@@ -87,19 +87,19 @@ Solo se envia mi nombre, mas no mi apellido.
 ## HACER EL ESQUELETO DE LA APLICACIÓN
 
 ### Cree una interfaz llamada *Shape.java*
-![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/16.png)
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/16.PNG)
 
 ### Cree una enumeración llamada *RegularShapeType.java*
-![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/17.png)
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/17.PNG)
 
 ###  Cree las diferentes clases *(Triangle, Quadrilateral, Pentagon, Hexagon)*, que implementen la interfaz creada y retornen el número correspondiente de vértices que tiene la figura.
-![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/18.png)
-![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/19.png)
-![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/20.png)
-![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/21.png)
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/18.PNG)
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/19.PNG)
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/20.PNG)
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/21.PNG)
 
 ### Cree el archivo *ShapeMain.java*
-![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/22.png)
+![](https://github.com/lisaforero/lab2_cvds/blob/main/Imagenes/22.PNG)
 
 ### Cree el archivo *ShapeFactory.java*
 Se usa la fabrica abstracta (Abstract Factory)
